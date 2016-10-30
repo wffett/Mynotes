@@ -1,2 +1,3 @@
-Core_Python_programming/.ipynb_checkpoints/*.*
-PP4E/.ipynb_checkpoints/*.*
+.ipynb_checkpoints/
+__pycache__/
+*~
